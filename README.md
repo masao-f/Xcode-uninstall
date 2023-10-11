@@ -1,14 +1,14 @@
 # Xcode-uninstall
 Xcodeをアンインストールするスクリプト
 
-XcodeのAppを削除しただけでは関連ファイルが残ったままなので、
-以下のディレクトリ/ファイル群をまとめて削除するスクリプト
+XcodeのAppを削除しただけでは関連ファイルが残ったままなので、<br>
+関連ファイル群である以下のリストをまとめて削除できるスクリプト<br><br>
 
-/Applications/Xcode.app
-/Library/Preferences/com.apple.dt.Xcode.plist
-~/Library/Preferences/com.apple.dt.Xcode.plist
-~/Library/Caches/com.apple.dt.Xcode
-~/Library/Application Support/Xcode
-~/Library/Developer/Xcode
-~/Library/Developer/CoreSimulator
+/Applications/Xcode.app<br>
+/Library/Preferences/com.apple.dt.Xcode.plist<br>
+~/Library/Preferences/com.apple.dt.Xcode.plist<br>
+~/Library/Caches/com.apple.dt.Xcode<br>
+~/Library/Application Support/Xcode<br>
+~/Library/Developer/Xcode<br>
+~/Library/Developer/CoreSimulator<br>
 
