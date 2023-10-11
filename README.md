@@ -1,0 +1,2 @@
+# Xcode-uninstall
+Xcodeをアンインストールするスクリプト
